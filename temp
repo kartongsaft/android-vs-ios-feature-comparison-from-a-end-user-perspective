@@ -1,21 +1,27 @@
-Android
+### Android
 
-Pro
+PROS
 - The ability to customize homescreen, icons and quick settings menu etc.
+- Provides overall more flexible functionality.
+- ChromeCast. Stream content without streaming from the device itself, with saves battery. Supported on many apps.
 
-Cons
+CONS
 - Apps have too much control of the personal storage, when apps has Storage Permission enabled.
-- Too much settings related to Google account (Maps, Google Assistant, Google Search etc.) 
+- Too much settings related to Google account (Maps, Google Assistant, Google Search etc.)
+- Built-in backup in Android Oreo; earlier version of Android uses Google Drive to accomplish this. 
+Neither of these provides good reliable backups, as apps needs to be at least API version 23 and actively instructed
+by the developer to allow backup of app data.
 
 Bottomline
 
-iOS
+### iOS
 
-
-Pros
+PROS
+- iMessage. Chat intergrated with SMS. Ridiculously easy to setup and use.
 - Streamlined design interface between the OS itself and third party apps.
+- Easy backup and restore options through iCloud.
 
-Cons
+CONS
 - Stuck with Safari; all links will open in the default web browser.
 
 
